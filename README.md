@@ -7,3 +7,4 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - GVR Unity SDK v1.70.0
 - Android 6.0+
 
+## Time used: ~9 hours (see the commit history)
