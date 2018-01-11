@@ -5,21 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/GoogleVR/Demos/Scenes/GVRDemo.unity
-    guid: a079666a970484545b4f1b5267c5065a
-  - enabled: 0
-    path: Assets/GoogleVR/Demos/Scenes/KeyboardDemo.unity
-    guid: 9d6dd2076ce7dbb4eb7777a469e50e0b
-  - enabled: 0
-    path: Assets/GoogleVR/Demos/Scenes/PermissionsDemo.unity
-    guid: b428c41d3fc8bcb40ad1b8e5748f77f5
-  - enabled: 0
-    path: Assets/GoogleVR/Demos/Scenes/ScrollingUIDemo.unity
-    guid: 86ca6304d97f52a47bc3194f54291a9a
-  - enabled: 0
-    path: Assets/GoogleVR/Demos/Scenes/VideoDemo.unity
-    guid: 582dd79d48912784baa2b3da16cb92f9
   - enabled: 1
     path: Assets/UdacityVR/Scenes/Build an Apartment.unity
     guid: 87f328043802ea247a72626774901493
